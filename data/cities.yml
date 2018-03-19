@@ -1,0 +1,8 @@
+- name: 'paris'
+  address: 'rue de la choucroute'
+- name: 'berlin'
+  address: 'rue de la choucroute'
+- name: 'amsterdam'
+  address: 'rue de la choucroute'
+- name: 'barcelona'
+  address: 'rue de la choucroute'
